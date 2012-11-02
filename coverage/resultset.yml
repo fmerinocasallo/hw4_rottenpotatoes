@@ -1,0 +1,1253 @@
+--- 
+RSpec: 
+  :original_result: 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/environment.rb: 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/application.rb: 
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/boot.rb: 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/environments/test.rb: 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/backtrace_silencers.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/inflections.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/mime_types.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/secret_token.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/session_store.rb: 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/wrap_parameters.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/controllers/application_controller.rb: 
+    - 1
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/helpers/application_helper.rb: 
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/helpers/movies_helper.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/controllers/movies_controller.rb: 
+    - 1
+    - 
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 4
+    - 4
+    - 
+    - 1
+    - 
+    - 1
+    - 
+    - 4
+    - 4
+    - 
+    - 4
+    - 18
+    - 
+    - 
+    - 4
+    - 2
+    - 2
+    - 2
+    - 
+    - 
+    - 2
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 4
+    - 4
+    - 4
+    - 4
+    - 1
+    - 1
+    - 
+    - 4
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 2
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 2
+    - 2
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/models/movie.rb: 
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 3
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/routes.rb: 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/spec/controllers/movie_spec.rb: 
+    - 1
+    - 
+    - 1
+    - 1
+    - 15
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 6
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 6
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 3
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+  :created_at: 2012-11-02 15:13:37.647886 -07:00
+Cucumber Features: 
+  :original_result: 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/environment.rb: 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/application.rb: 
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/boot.rb: 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/environments/test.rb: 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/backtrace_silencers.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/inflections.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/mime_types.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/secret_token.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/session_store.rb: 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/initializers/wrap_parameters.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/controllers/application_controller.rb: 
+    - 1
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/helpers/application_helper.rb: 
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/helpers/movies_helper.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/controllers/movies_controller.rb: 
+    - 1
+    - 
+    - 1
+    - 3
+    - 3
+    - 
+    - 
+    - 
+    - 1
+    - 16
+    - 16
+    - 
+    - 3
+    - 
+    - 3
+    - 
+    - 16
+    - 16
+    - 
+    - 16
+    - 36
+    - 
+    - 
+    - 16
+    - 2
+    - 2
+    - 2
+    - 
+    - 
+    - 14
+    - 4
+    - 4
+    - 4
+    - 4
+    - 
+    - 10
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 2
+    - 2
+    - 1
+    - 1
+    - 
+    - 2
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/app/models/movie.rb: 
+    - 1
+    - 1
+    - 16
+    - 
+    - 
+    - 1
+    - 2
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/config/routes.rb: 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/features/support/paths.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 10
+    - 
+    - 
+    - 1
+    - 
+    - 5
+    - 
+    - 1
+    - 
+    - 2
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    /home/ubuntu/Documents/hw4_rottenpotatoes/features/support/selectors.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 
+    - 1
+    /home/ubuntu/Documents/hw4_rottenpotatoes/features/step_definitions/movie_steps.rb: 
+    - 
+    - 
+    - 1
+    - 8
+    - 
+    - 
+    - 62
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 2
+    - 2
+    - 0
+    - 
+    - 2
+    - 
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 10
+    - 5
+    - 5
+    - 0
+    - 
+    - 5
+    - 
+    - 
+    - 5
+    - 5
+    - 0
+    - 
+    - 5
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 12
+    - 2
+    - 2
+    - 5
+    - 2
+    - 
+    - 3
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 3
+    - 3
+    - 10
+    - 10
+    - 7
+    - 
+    - 3
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4_rottenpotatoes/features/step_definitions/web_steps.rb: 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 1
+    - 1
+    - 10
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 7
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 3
+    - 
+    - 
+    - 1
+    - 4
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 7
+    - 
+    - 
+    - 1
+    - 3
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 7
+    - 7
+    - 7
+    - 7
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 3
+    - 3
+    - 3
+    - 3
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 2
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 
+  :created_at: 2012-11-02 15:13:59.176116 -07:00
